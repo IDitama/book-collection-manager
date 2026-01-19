@@ -4,7 +4,12 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/backend" />
-        <option name="gradleJvm" value="liberica-25" />
+        <option name="gradleJvm" value="ms-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/backend" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
